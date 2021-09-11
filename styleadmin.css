@@ -1,0 +1,189 @@
+body{
+	background: #EEE8AA;
+}
+
+.gambar2{
+	margin: 0px 0px;
+	padding: 2px 2px;
+	margin-top: -30px;
+}
+
+.gambar3{
+	margin: 0px 0px;
+	padding: 4px 2px;
+	margin-top: -30px;
+}
+
+.so{
+	font-style: oblique;
+	box-shadow: 100px 10px 10px 1px #708090;
+}
+
+.so2{
+	font-style: oblique;
+	box-shadow: 100px 10px 10px 1px #708090;
+}
+
+.tanggal{
+	background: #D2B48C;
+	color: black;
+	font-size: 12pt;
+	width: 45%;
+	border: none;
+	border-radius: 10px;
+	padding: 0px 20px;
+	font-style: oblique;
+	margin: 10px 10px;
+	text-align: center;
+}
+
+.orang{
+	background: #D2B48C;
+	color: black;
+	font-size: 12pt;
+	width: 22%;
+	border: none;
+	border-radius: 10px;
+	padding: 5px 15px;
+	font-style: oblique;
+	margin: 0px 0px;
+	text-align: center;
+}
+
+.link{
+	color: black;
+	font-size: 12pt;
+	width: 22%;
+	border: none;
+	border-radius: 10px;
+	padding: 5px 20px;
+	font-style: oblique;
+	margin: 0px 0px;
+	text-decoration: none;
+}
+
+.posisi{
+	background: #D2B48C;
+	color: black;
+	font-size: 12pt;
+	width: 50%;
+	border: none;
+	border-radius: 10px;
+	padding: 0px 20px;
+	font-style: oblique;
+	margin: 10px 10px;
+	text-align: center;
+}
+
+.inputdata{
+	padding: 10px 450px auto;
+}
+
+.zoom-effectinput {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.inputdata img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effectinput:hover .inputdata img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+/*---------------------------------*/
+
+.listpengaju{
+	padding: 10px 250px auto;
+}
+
+.zoom-effectlist {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.listpengaju img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effectlist:hover .listpengaju img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+/*---------------------------------*/
+
+.statuspengaju{
+	padding: 10px 250px auto;
+}
+
+.zoom-effectstatus {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.statuspengaju img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effectstatus:hover .statuspengaju img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+/*---------------------------------*/
+
+.profiledit{
+	padding: 10px 350px auto;
+}
+
+.zoom-effectprofil {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.profiledit img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effectprofil:hover .profiledit img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+
+/*---------------------------------*/
+
+.keluar{
+	padding: 10px 350px auto;
+}
+
+.zoom-effectkeluar {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.keluar img {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effectkeluar:hover .keluar img {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}

@@ -1,0 +1,104 @@
+body{
+	background: #87CEEB;
+}
+
+.gambar1{
+	margin: 10px 50px;
+	box-shadow: 0px 0px 80px 1px #d6d6d6;
+}
+
+.tulis_login{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.kolom_login{
+	width: 350px;
+	backgound: white;
+	margin: -650px 700px;
+	padding: 30px 20px;
+	box-shadow: 0px 0px 80px 1px #d6d6d6;
+	border-radius: 100px;
+	font-style: oblique;
+}
+
+label{
+	font-size: 15pt;
+	box-shadow: 0px 0px 100px 1px #5F9EA0;
+}
+
+.formlogin{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+	border-radius: 30px;
+}
+
+.tombol{
+	background: #4682B4;
+	color: white;
+	font-size: 11pt;
+	width: 90%;
+	border: none;
+	border-radius: 30px;
+	padding: 10px 20px;
+	font-style: oblique;
+	font-weight: bold;
+	margin: 10px 12px;
+}
+
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+	padding: 10px 20px;
+}
+
+.alert{
+	width: 300px;
+	background: #8B0000;
+	color: white;
+	margin: -300px -1060px;
+	padding: 10px 20px;
+	text-align: center;
+	border: 1px solid #b32929;
+	border-radius: 30px;
+	box-shadow: 0px 0px 80px 1px #d6d6d6;
+}
+/*---------------------------------*/
+.zoom-effect {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.kotak input {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effect:hover .kotak input {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
+/*---------------------------------*/
+
+.zoom-effectWA {  
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  overflow: hidden;  
+}
+ 
+.link a {
+  -webkit-transition: 0.4s ease;
+  transition: 0.4s ease;
+}
+ 
+.zoom-effectWA:hover .link a {
+  -webkit-transform: scale(1.08);
+  transform: scale(1.08);
+}
